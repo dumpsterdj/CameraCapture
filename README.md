@@ -30,7 +30,7 @@ A straightforward project demonstrating how to run real-time (single-frame) obje
 
 2. **Open the Notebook in Colab**  
    - Open [Google Colab](https://colab.research.google.com/).
-   - Upload or open the `colab_yolo_detection.ipynb` notebook.  
+   - Upload or open the `CameraDetection.ipynb` notebook.  
 
 3. **Install & Load YOLO**  
    - Run the first cell to install necessary dependencies (OpenCV, NumPy) and to automatically fetch `yolov3.cfg`, `yolov3.weights`, and `coco.names`.
